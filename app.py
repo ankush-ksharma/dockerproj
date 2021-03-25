@@ -1,7 +1,6 @@
-import click
 
 def hello():
-    click.echo("Hello World!")
+    print("Hello World!")
 
 if __name__ == '__main__':
     hello()
